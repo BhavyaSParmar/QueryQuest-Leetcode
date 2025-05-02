@@ -76,5 +76,5 @@ SQL/
 
 > **Bhavya Parmar**  
 > MS in Information Systems | Northeastern University  
-> [LinkedIn](https://www.linkedin.com/in/your-profile) • [Medium](https://medium.com/@your-profile) 
+> [LinkedIn](https://www.linkedin.com/in/bhavya-parmar-b8b3a0172/) • [Medium](https://medium.com/%40bhavyasparmar402) 
 

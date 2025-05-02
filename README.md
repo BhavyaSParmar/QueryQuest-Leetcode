@@ -74,7 +74,7 @@ SQL/
 
 ## 📎 Author
 
-**Bhavya Parmar**  
-MS in Information Systems | Northeastern University  
+> **Bhavya Parmar**  
+> MS in Information Systems | Northeastern University  
 > [LinkedIn](https://www.linkedin.com/in/your-profile) • [Medium](https://medium.com/@your-profile) 
 

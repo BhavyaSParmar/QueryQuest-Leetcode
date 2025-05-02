@@ -35,7 +35,7 @@ SQL/
 - `SELECT` Basics
 - `WHERE`, `AND`, `OR`, `NOT` Filters
 - Aggregate Functions: `COUNT`, `SUM`, `AVG`, `GROUP BY`, `HAVING`
-- `JOIN`s: `INNER`, `LEFT`, `RIGHT`, `SELF`
+- `JOINS`: `INNER`, `LEFT`, `RIGHT`, `SELF`
 - `CASE WHEN` Logic
 - `ORDER BY` and `LIMIT`
 - `Subqueries` and `Window Functions`

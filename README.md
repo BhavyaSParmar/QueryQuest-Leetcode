@@ -6,7 +6,7 @@
 
 ## 🗂️ Repository Structure
 
-> Each file is named and numbered for clarity and ease of tracking:
+> Each file is named and numbered for clarity and ease of tracking: 
 
 ```
 SQL/

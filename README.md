@@ -12,7 +12,6 @@
 SQL/
 ├── 001_lowfat_recyclable.sql    # Products that are both low fat and recyclable
 ├── 002_second_problem.sql       # (Next problem)
-├── 003_third_problem.sql        # (Coming soon)
 ├── ...
 ```
 

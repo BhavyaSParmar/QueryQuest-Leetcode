@@ -1,7 +1,6 @@
 # Write your MySQL query statement below
-select employees.employee_id from employees
-left join employees as managers
-on employees.manager_id = managers.employee_id
-where employees.salary < 30000
-and managers.employee_id is null
+select employee_id from employees
+where salary < 30000
+and manager_id is not null
+and manager_id not in (select employee_id from employees)
 order by employee_id;

@@ -16,4 +16,4 @@ union all
   group by movies.movie_id, movies.title
   order by avg(movierating.rating) desc, movies.title
   limit 1
-);
+)
